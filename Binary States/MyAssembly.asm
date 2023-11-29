@@ -261,6 +261,16 @@ doit proc			; proc -- procedure
 	; 00341000 >> 1		output: 00034100		decimal base 10
 	; 0000 0100 << 2	output: 0001 0000		binary base 2
 
+	; -------------------------------------- Binary States ------------------------------------------------------
+	; ref link:https://www.youtube.com/watch?v=ToDvxCMR9UY&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=17
+
+
+
+
+
+
+
+
 
 
 
