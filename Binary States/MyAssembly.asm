@@ -264,7 +264,8 @@ doit proc			; proc -- procedure
 	; -------------------------------------- Binary States ------------------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=ToDvxCMR9UY&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=17
 
-
+	; Bit State 0 off , 1 on
+	; 3 digit value contains 8 states starting with 000 upto 111
 
 
 
